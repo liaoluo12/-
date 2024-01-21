@@ -1,7 +1,0 @@
-#include<stdio.h>
-
-int main(void)
-{
-  printf("Heoll Wrold，嘿嘿!");
-  return 0;
-}
